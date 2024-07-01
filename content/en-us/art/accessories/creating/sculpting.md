@@ -11,7 +11,8 @@ After scaling and positioning your clothing mesh, begin applying sculpting detai
   <figure>
     <img src="../../../assets/art/accessories/creating/Modeling-Complete-2.png" width="60%" />
     <figcaption>Clothing mesh after sculpting details</figcaption>
-  </figure>
+  </figure>![картинка](https://github.com/Roblox/creator-docs/assets/174310659/203f1a63-d1b4-4c79-85eb-2cd93431e461)
+
 </center>
 
 To add clothing details:
